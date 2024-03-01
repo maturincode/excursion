@@ -25,3 +25,9 @@ body {
     font-size: 21px;
     color: gray;
 }
+
+.h2--bottom {
+    font-weight: 300;
+    font-size: 42px;
+    color: #fff;  
+}
