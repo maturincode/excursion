@@ -31,3 +31,9 @@ body {
     font-size: 42px;
     color: #fff;  
 }
+
+.footer--excursion {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
